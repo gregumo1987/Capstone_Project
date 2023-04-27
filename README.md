@@ -1,6 +1,6 @@
 # FP&A Analysis Dashboard
 
-This project is a web-based dashboard for analyzing a company's financial performance. It includes a Flask web application, a Chart.js charting library, and a Python script for generating simulated financial data.
+This project is a web-based dashboard for analyzing a company's financial performance. It includes a Flask web application, and a Python script for generating simulated financial data.
 
 ## Getting Started
 
